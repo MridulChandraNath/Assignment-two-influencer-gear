@@ -43,6 +43,7 @@ p{
     text-align: center;
     
 }
+/* item section are from here */
 .item-card{
     display: grid;
     grid-template-columns: repeat(3,1fr);
@@ -64,4 +65,14 @@ p{
 }
 .item img{
     width: 100%;
+}
+.affiliating-image{
+    width: 30%;
+}
+
+footer{
+    background: #AAAAAA;
+    height: 10%;
+    width: 100%;
+    text-align: center;
 }
